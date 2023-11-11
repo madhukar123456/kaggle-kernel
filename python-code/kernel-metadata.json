@@ -1,14 +1,14 @@
 {
-  "id": "icenfire/mistral_test",
-  "title": "mistral_test",
-  "code_file": "mistral_test.ipynb",
+  "id": "icenfire/mistraltest",
+  "title": "mistraltest",
+  "code_file": "mistraltest.ipynb",
   "language": "python",
   "kernel_type": "notebook",
   "is_private": "true",
   "enable_gpu": "true",
   "enable_tpu": "false",
   "enable_internet": "true",
-  "dataset_sources": ["icenfire/mistral_test"],
+  "dataset_sources": ["icenfire/mistraltest"],
   "competition_sources": [],
   "kernel_sources": [],
   "model_sources": []
